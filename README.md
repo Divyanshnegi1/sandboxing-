@@ -83,7 +83,7 @@ This helps protect the host system by restricting what sandboxed processes can d
 
 ## Author
 
-NAVNEET BAHUGUNA
+DIVYANSH SINGH NEGI
 B.Tech Computer Science Engineering  
 Graphic Era Hill University  
 
